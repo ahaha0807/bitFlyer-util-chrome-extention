@@ -1,0 +1,13 @@
+#expected-jpy {
+    width: 9em !important;
+    div {
+        width: 100%;
+    } 
+}
+
+.expected-jpy-value {
+    white-space: nowrap;
+    border: 1px solid #ccc;
+    padding: 0 1em;
+    font-size: 130%;
+}

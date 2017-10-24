@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ExchangePage-Util-in-bitFlyer",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "util-for-bitFlyer",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "bitFlyerの取引所の日本円計算をやれるようにするChromeExtention",
+    "description": "The description of the application"
+  }
+}
