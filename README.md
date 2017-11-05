@@ -2,6 +2,8 @@
 
 bitFlyerの取引所の日本円計算をやれるようにするChromeExtention
 
+<a href="https://bitflyer.jp?bf=2i5ufx3v" target="_blank"><img src="https://bitflyer.jp/Images/Affiliate/affi_06_300x250.gif" alt="bitFlyer ビットコインを始めるなら安心・安全な取引所で"></a>
+
 ## Installation
 
 	$ npm install
